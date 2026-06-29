@@ -1,4 +1,4 @@
-# 
+# Instant SQL Server Management Studio scripts for Mac OS | Exclusive SQL Server Management Studio scripts for PC Windows. Featuring merge-conflict-resolution and authentication-helpers — optimized for maximum performance on every platform.
 
 
 
